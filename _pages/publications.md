@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{[author.googlescholar](https://scholar.google.com/citations?user=xEmA2LIAAAAJ&hl=vi&oi=sra)}}">my Google Scholar profile</a>.</u>
+  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xEmA2LIAAAAJ&hl=vi&oi=sra">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
@@ -24,6 +24,3 @@ author_profile: true
 3. Nam Anh Dang Nguyen, **Binh Nguyen Le Nguyen**, Le Duy Tan: AiMA - An AI-Based Mobile System to Assist College Students with Math-Related Issues, The Conference on The Digital Transformation Capacity for Vietnamese Youth 2023 – Vietnam. Accepted (May 2023).
 4. Nam Anh Dang Nguyen, **Binh Nguyen Le Nguyen**, Le Duy Tan: AiMA - An AI-Powered Mobile System for Supporting Undergraduate Dealing with Mathematical Problems, The 7th International Student Science Forum 2023 (ISSF 2023). Proceeding (September 2023).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
