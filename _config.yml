@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Undergraduate Student Le Nguyen Binh Nguyen"
+  name             : "Le Nguyen Binh Nguyen"
   avatar           : "profile.png"
-  bio              : "Research member at AIoT Lab VN, interest in Internet of Things, Machine Learning, Deep Learning and Web/Mobile Application"
+  bio              : "An undergraduate student and a research member in AIoT Lab VN, interest in Internet of Things, Machine Learning, Deep Learning and Web/Mobile Application"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=xEmA2LIAAAAJ&hl=vi&authuser=4"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=xEmA2LIAAAAJ&hl=vi&oi=sra"
   email            : "nguyenle23.iu@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Le-Nguyen-102"
   uri              :
@@ -94,26 +94,26 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/nguyenle23.iu/"
+  facebook         : "nguyenle23.iu"
   foursquare       :
-  github           : "https://github.com/Nguyenle23"
+  github           : "Nguyenle23"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/nguyenle23iu/"
+  LinkedIn         : "nguyenle23iu"
   orcid            : "http://orcid.org/0009-0000-6543-6698"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/nguyenL_E"
+  twitter          : "nguyenL_E"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCgGdKJ-_dy90xlxwgQCV6KA"
+  youtube          : "UCgGdKJ-_dy90xlxwgQCV6KA"
   wikipedia        :
 
 
