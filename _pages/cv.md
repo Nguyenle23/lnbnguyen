@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Resume 
-======
-* <h4><a href=https://drive.google.com/file/d/1ZVcx116pJJdGzbgAIqWb2PqhZxYVQOg_/view?usp=sharing> Online version </a></h4>
-
 Education
 ======
 * B.E in International University - Vietnam National University Ho Chi Minh City
