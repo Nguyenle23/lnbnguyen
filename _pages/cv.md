@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * B.E. in International University - Vietnam National University Ho Chi Minh City
@@ -21,7 +19,7 @@ Research Interests
 * Deep Learning
 * Web/Mobile Application
 * Air Quality
-  
+* 
 Honours and awards
 ======
 * Final Digitrans Smart City competition round – Smart City Building Initiative 2023.
