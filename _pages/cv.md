@@ -22,13 +22,13 @@ Research Interests
 * Web/Mobile Application
 * Air Quality
   
-Honors and awards
+Honours and awards
 ======
-* Final round of Digitrans Smart City competition – Smart City Building Initiative 2023.
+* Final Digitrans Smart City competition round – Smart City Building Initiative 2023.
 * Scholarship to attend the Summer School on "Modern Machine Learning: Theoretical Foundations
 and Applications" 2023.
 * First prize at the scientific conference "Digital transformation for young people - Solutions and
 applications 2023".
 * Final round of the Google Developer Student Club Hackathon Vietnam 2023.
-* First prize of IT Hackathon 2022 organized by the Faculty of Information Technology, International
+* First prize in IT Hackathon 2022, organized by the Faculty of Information Technology, International
 University (VNU-HCM).
