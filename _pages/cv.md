@@ -21,14 +21,6 @@ Research Interests
 * Deep Learning
 * Web/Mobile Application
 * Air Quality
-<!--   
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-
   
 Honors and awards
 ======
