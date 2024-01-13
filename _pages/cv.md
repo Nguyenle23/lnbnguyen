@@ -36,9 +36,13 @@ University (VNU-HCM).
 
 Projects
 ======
+| Name            |  Description                                                |
+| --------         |  ------------------------------------------------------------ |
+| Bachelor Project: Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology | This is a thesis project under the supervision of Dr. Le Duy Tan.It aims to investigate the development of an air quality monitoring system that utilizes low-cost real-time sensors, while incorporating fog computing technologies. The integration of open-source projects, such as ThingsBoard and OpenStreetMap, has been effectively accomplished to facilitate the real-time visualization of data on web and mobile platforms. Using Long-short Term Memory (LSTM) model to forecast the air quality in the next hour with 5-minute intervals. |
+
 | Title            | Year   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
-| [Bachelor Project: Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology](https://github.com/Nguyenle23/AIAir-Quality-System)    | 2023   | This is a thesis project under the supervision of Dr. Le Duy Tan.It aims to investigate the development of an air quality monitoring system that utilizes low-cost real-time sensors, while incorporating fog computing technologies. The integration of open-source projects, such as ThingsBoard and OpenStreetMap, has been effectively accomplished to facilitate the real-time visualization of data on web and mobile platforms. Using Long-short Term Memory (LSTM) model to forecast the air quality in the next hour with 5-minute intervals.                  |
+| [Bachelor Project: Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology](https://github.com/Nguyenle23/AIAir-Quality-System)    | 2023   | It investigates a fog computing-based air quality monitoring system using low-cost real-time sensors. The integration of open-source projects like ThingsBoard and OpenStreetMap has enabled real-time data display on web and mobile platforms. Predicting air quality in the next hour at 5-minute intervals using LSTM model.                          |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
