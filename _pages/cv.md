@@ -36,17 +36,15 @@ University (VNU-HCM).
 
 Projects
 ======
-| Name            |  Description                                                |
-| --------         |  ------------------------------------------------------------ |
-| Bachelor Project: Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology | This is a thesis project under the supervision of Dr. Le Duy Tan.It aims to investigate the development of an air quality monitoring system that utilizes low-cost real-time sensors, while incorporating fog computing technologies. The integration of open-source projects, such as ThingsBoard and OpenStreetMap, has been effectively accomplished to facilitate the real-time visualization of data on web and mobile platforms. Using Long-short Term Memory (LSTM) model to forecast the air quality in the next hour with 5-minute intervals. |
-
 | Title            | Year   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [Bachelor Project: Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology](https://github.com/Nguyenle23/AIAir-Quality-System)    | 2023   | It investigates a fog computing-based air quality monitoring system using low-cost real-time sensors. The integration of open-source projects like ThingsBoard and OpenStreetMap has enabled real-time data display on web and mobile platforms. Predicting air quality in the next hour at 5-minute intervals using LSTM model.                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [GDSC Hackathon: Petties](https://github.com/Nguyenle23/Petties-GDSC)    | 2023   | Developing a software application that leverages Google's suite of services to facilitate the connection between pet owners and caretakers during the owners' periods ofunavailability.                          |
+| [Internet of Things Project: An	AIoT Smart Parking System](https://github.com/Nguyenle23/Internet-of-Things-Project)     | 2022   | This work implements a sophisticated Deep Learning library-based license plate recognition mechanism. Developed a web interface and mobile app for smart parking system user interaction. This study aims to develop a prototype model for identifying and scanning license plates using IoT devices. |
+| [NetCentric Project: Stocking Microservices](https://github.com/Nguyenle23/Stocking-Microservices)    | 2022   | The concept of microservices was implemented in the development of a server utilizing two different programming languages. The implementation of a Golang server is proposed to handle the authentication and authorization processes for users prior to accessing the dashboard and engaging in stock trading activities. The NodeJS server is designed to efficiently manage several users who using the application for stock trading purposes. |
+| [Web Application Project: Stocking Microservices](https://github.com/Nguyenle23/WAD-Project-Course)    | 2021   | The full-stack responsibility for this project includes building the web application's server infrastructure and user and management interfaces. Momo, a popular payment mechanism in Vietnam, has been used to improve user payment capabilities by scanning QR codes. |
 
- 
+
 
 
 

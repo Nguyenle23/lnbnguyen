@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %} -->
-
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=xEmA2LIAAAAJ">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -19,7 +19,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 ***Journal Articles***
 1. **September, 2023**: Duy Tan Le, Dang Nam Anh Nguyen, Duc Dang Khoi Nguyen, **Nguyen Binh Nguyen Le** (2023) “AiMA - An AI-Based Mobile System to Assist College Students with Math-Related Issues”, VNUHCM Journal of Science and Technology Development, 26(3), pp. 2863-2875. doi: [https://doi.org/10.32508/stdj.v26i3.4104](https://doi.org/10.32508/stdj.v26i3.4104).
