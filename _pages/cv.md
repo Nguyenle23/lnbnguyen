@@ -38,10 +38,10 @@ Projects
 ======
 | Name            |  Description                                                |
 | --------         |  ------------------------------------------------------------ |
-| Thesis Project: Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology   | - This is a thesis project under the supervision of Dr. Le Duy Tan.
+| Bachelor Project: Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology   | - This is a thesis project under the supervision of Dr. Le Duy Tan.
 - This project aims to investigate the development of an air quality monitoring system that utilizes low-cost real-time sensors, while incorporating fog computing technologies.
 - The integration of open-source projects, such as ThingsBoard and OpenStreetMap, has been effectively accomplished to facilitate the real-time visualization of data on web and mobile platforms.                          
-- Using Long-short Term Memory (LSTM) model to forecast the air quality in the next hour with 5-minute intervals.
+- Using Long-short Term Memory (LSTM) model to forecast the air quality in the next hour with 5-minute intervals. |
 |
 
  

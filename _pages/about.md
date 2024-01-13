@@ -33,7 +33,3 @@ AIAir - Website
 AIAir - Google Play Store 
 ------
 [https://play.google.com/store/apps/details?id=com.aiotlabvn.iu_air_quality](https://play.google.com/store/apps/details?id=com.aiotlabvn.iu_air_quality)
-
-AiMA - Google Play Store
-------
-[https://play.google.com/store/apps/details?id=com.aiotlabvn.aima](https://play.google.com/store/apps/details?id=com.aiotlabvn.aima)
