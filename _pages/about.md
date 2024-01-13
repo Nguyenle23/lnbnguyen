@@ -26,8 +26,14 @@ Keyword
 4. Web Application
 5. Mobile Application
 
-AIAir Website
+AIAir - Website
 ------
-[Access here](http://bit.ly/3uxHGpM)
+[https://www.aiair-aiotlabvn.tech/](https://www.aiair-aiotlabvn.tech/)
 
+AIAir - Google Play Store 
+------
+[https://play.google.com/store/apps/details?id=com.aiotlabvn.iu_air_quality](https://play.google.com/store/apps/details?id=com.aiotlabvn.iu_air_quality)
 
+AiMA - Google Play Store
+------
+[https://play.google.com/store/apps/details?id=com.aiotlabvn.aima](https://play.google.com/store/apps/details?id=com.aiotlabvn.aima)
