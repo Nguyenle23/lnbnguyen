@@ -18,4 +18,4 @@ Professional Experience
 * 07/2022 – 07/2023
   * Member of Google Developer Student Club - Ho Chi Minh International University in the Faculty of Academic.
 * 07/2022 – 10/2022
-  * Internship Back-end Developer at The Ark Studio
+  * Internship Back-end Developer at The Ark Studio.
