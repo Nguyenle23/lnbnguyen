@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,22 +9,16 @@ redirect_from:
 
 Education
 ======
-* Bachelor of Engineering (Computer Science) at International University - Vietnam National University Ho Chi Minh City
-- Undergraduate Thesis: "Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology" – Advisor: [Dr. Le Duy Tan](https://www.leduytanit.com/)
+* Bachelor of Engineering (Computer Science) at International University - Vietnam National University - Ho Chi Minh City
+* Undergraduate Thesis: "Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology" – Advisor: [Dr. Le Duy Tan](https://www.leduytanit.com/) - Grade: 96/100
+* IELTS: 6.0
 
-Professional Experiences
-======
-* 08/2023 - Now
-  * Research Member, AIoT Lab VN – International University – VNU-HCM
-  * Reference: [AIoTLabVN](https://aiotlab.vn/)
-  * Collaborated as a valuable team member, contributing to research projects at the confluence of Artificial Intelligence (AI) and the Internet of Things (IoT) while supporting and working alongside a team of researchers.
-  * Engage in research endeavors involving laboratory projects and academic competitions centered around the subject matter of Artificial Intelligence of Things (AIoT).
-
-* 07/2022 – 07/2023
-  * Member of Google Developer Student Club - Ho Chi Minh International University in the Faculty of Academic.
 
 Honours and awards
 ======
+* Scholarship from the University of Huddersfield for researching topic.
+* One of the Top 13 Teams in IT Hackathon 2024: Solana Consumer Hack organized by the Faculty of Information Technology – International University (VNU-HCM).
+* Top 4 Outstanding Teams in the Southern Vietnam Region of Google Developer Student Club Hackathon 2024.
 * Final Digitrans Smart City competition round – Smart City Building Initiative 2023.
 * Scholarship to attend the Summer School on "Modern Machine Learning: Theoretical Foundations
 and Applications" 2023.
@@ -34,7 +28,7 @@ applications 2023".
 * First prize in IT Hackathon 2022, organized by the Faculty of Information Technology, International
 University (VNU-HCM).
 
-Projects
+<!-- Projects
 ======
 
 | Title            | Year   |                                                              |
@@ -43,4 +37,4 @@ Projects
 | [GDSC Hackathon: Petties](https://github.com/Nguyenle23/Petties-GDSC)    | 2023   | Developing a software application that leverages Google's suite of services to facilitate the connection between pet owners and caretakers during the owners' periods ofunavailability. |
 | [Internet of Things Project: An	AIoT Smart Parking System](https://github.com/Nguyenle23/Internet-of-Things-Project)     | 2022   | This work implements a sophisticated Deep Learning library-based license plate recognition mechanism. Developed a web interface and mobile app for smart parking system user interaction. This study aims to develop a prototype model for identifying and scanning license plates using IoT devices. |
 | [NetCentric Project: Stocking Microservices](https://github.com/Nguyenle23/Stocking-Microservices)    | 2022   | The concept of microservices was implemented in the development of a server utilizing two different programming languages. The implementation of a Golang server is proposed to handle the authentication and authorization processes for users prior to accessing the dashboard and engaging in stock trading activities. The NodeJS server is designed to efficiently manage several users who using the application for stock trading purposes. |
-| [Web Application Project: Stocking Microservices](https://github.com/Nguyenle23/WAD-Project-Course)    | 2021   | The full-stack responsibility for this project includes building the web application's server infrastructure and user and management interfaces. Momo, a popular payment mechanism in Vietnam, has been used to improve user payment capabilities by scanning QR codes. |
+| [Web Application Project: Stocking Microservices](https://github.com/Nguyenle23/WAD-Project-Course)    | 2021   | The full-stack responsibility for this project includes building the web application's server infrastructure and user and management interfaces. Momo, a popular payment mechanism in Vietnam, has been used to improve user payment capabilities by scanning QR codes. | -->

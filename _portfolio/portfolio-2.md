@@ -1,7 +1,7 @@
 ---
 title: "The Digitrans Smart City Competition"
-excerpt: "Certificate of The Digitrans Smart City Competition <br/><img src='/images/cer/digis-cer.png'>"
+excerpt: "<img src='/images/cer/digis-cer.png' style='width: 35%; border: 2px solid #000;'>"
 collection: portfolio
 ---
 
-The Digitrans Smart City Competition
+![DigiTrans](/images/cer/digis-cer.png)

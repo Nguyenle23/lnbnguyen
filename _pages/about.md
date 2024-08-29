@@ -10,21 +10,19 @@ redirect_from:
 
 Nguyen's Information
 ------
-I am a senior at International University, specializing in Computer Science.
+I am a Computer Science engineer graduated at International University - VNU Ho Chi Minh City. During my academic career, I gained a comprehensive understanding of the development of web and mobile applications, the management of server systems, and the implementation of machine learning and deep learning models through practical project-based experiences and academic courses. 
 
-My journey has equipped me with a wealth of experience in crafting dynamic web and mobile applications, a skillset honed through various project-based courses.
+Moreover, I also have some experience in the field of Internet of Things (IoT) and Artificial Intelligence (AI) to develop innovative solutions that leverage the synergy between these two cutting-edge fields.
 
-I stand proud as a current member of AIoTLabVN, where my focus lies in pioneering research and the seamless integration of cutting-edge technologies such as IoT and AI.
+Currently, in my role as a research member of [AIoT Lab VN](https://aiotlab.vn/), I have actively engaged in numerous academic competitions and have successfully published scientific articles in both national and international conferences and publications.
 
-With a passion for innovation, I am dedicated to contributing my expertise to the realm of AI-driven IoT projects, fostering groundbreaking solutions at the intersection of these two dynamic fields.
+I am in search of opportunities to work in a challenging environment that offers the potential for personal development.
 
-Keyword
+<!-- Keyword
 ------
-1. Internet of Things
-2. Machine Learning
-3. Deep Learning
-4. Web Application
-5. Mobile Application
+1. Web/Mobile Application 
+2. Machine/Deep Learning
+3. Internet of Things    -->
 
 AIAir - Website
 ------

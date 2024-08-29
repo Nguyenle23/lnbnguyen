@@ -1,7 +1,7 @@
 ---
-title: "The 7th International Student Science Forum Ho Chi Minh City 2023"
-excerpt: "The 7th International Student Science Forum Ho Chi Minh City 2023<br/><img src='/images/cer/issf-cer.png'>"
+title: "1st prize of IT Hackathon 2022 organized by the Faculty of Information Technology, International University (VNU-HCM)"
+excerpt: "<img src='/images/cer/iuhack.jpg' style='width: 35%; border: 2px solid #000;'>"
 collection: portfolio
 ---
 
-The 7th International Student Science Forum Ho Chi Minh City 2023
+![DigiTrans](/images/cer/iuhack.jpg)
