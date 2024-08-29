@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Le Nguyen Binh Nguyen"
 title_separator          : "-"
 name                     : &name "Le Nguyen Binh Nguyen"
-description              : &description "A senior at International University and a research member in AIoT Lab VN."
+description              : &description "A graduate student at International University and a research member in AIoT Lab VN."
 url                      : https://nguyenle23.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nguyenle23.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Le Nguyen Binh Nguyen"
-  avatar           : "ava-profile.png"
-  bio              : "A research member in AIoT Lab VN @ International University - VNU HCMC"
+  avatar           : "ne.png"
+  bio              : "Research member at AIoTLabVN"
   location         : "Ho Chi Minh City, Vietnam"
   employer         :
   pubmed           : 

@@ -28,6 +28,13 @@ applications 2023".
 * First prize in IT Hackathon 2022, organized by the Faculty of Information Technology, International
 University (VNU-HCM).
 
+
+
+
+<!-- <embed src="/images/cer/CV_LeNguyenBinhNguyen.pdf" width="100%" height="600px" type="application/pdf"> -->
+
+
+
 <!-- Projects
 ======
 

@@ -19,3 +19,11 @@ Professional Experience
   * Member of Google Developer Student Club - Ho Chi Minh International University in the Faculty of Academic.
 * 07/2022 – 10/2022
   * Internship Back-end Developer at The Ark Studio.
+
+
+Cirriculum Vitae
+======
+<iframe src="/images/cer/CV_LeNguyenBinhNguyen.pdf" width="100%" height="500px">
+    This browser does not support PDFs. Please download the PDF to view it: 
+    <a href="/images/cer/CV_LeNguyenBinhNguyen.pdf">Download PDF</a>.
+</iframe>
