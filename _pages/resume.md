@@ -22,10 +22,10 @@ Honours and awards
 * Final Digitrans Smart City competition round – Smart City Building Initiative 2023.
 * Scholarship to attend the Summer School on "Modern Machine Learning: Theoretical Foundations
 and Applications" 2023.
-* First prize at the scientific conference "Digital transformation for young people - Solutions and
+* 1st prize at the scientific conference "Digital transformation for young people - Solutions and
 applications 2023".
 * Final round of the Google Developer Student Club Hackathon Vietnam 2023.
-* First prize in IT Hackathon 2022, organized by the Faculty of Information Technology, International
+* 1st prize in IT Hackathon 2022, organized by the Faculty of Information Technology, International
 University (VNU-HCM).
 
 

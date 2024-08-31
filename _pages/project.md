@@ -5,7 +5,19 @@ permalink: /projects/
 author_profile: true
 ---
 
-Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology
+AIoT Lab VN - Research Projects
+======
+
+TacticWave - A vibration hand device for the deafblindness community
+======
+* This is a research project from AIoT Lab VN.
+* The project aims to develop a wearable device that can help the deafblind community to communicate with others.
+* The device uses vibration patterns to convey information to the user.
+* Using a mobile application developed with Flutter to transmit the signals to the Arduino device.
+
+----------------
+
+AIAir: Real-time Air Quality Monitoring and Forecasting System with Fog Computing Technology
 ======
 * This was an undergraduate thesis project.
 * This project aimed to develop an air quality monitoring system that utilizes low-cost sensors, while incorporating fog computing technologies to enhance the system's efficiency and real-time data processing capabilities.
@@ -15,6 +27,16 @@ Real-time Air Quality Monitoring and Forecasting System with Fog Computing Techn
   * Google Play Store: [AIAir Quality App](https://play.google.com/store/apps/details?id=com.aiotlabvn.iu_air_quality)
   * Apple Store: [AIAir Quality App](https://me-qr.com/Kh9eBReN) (Beta-testing)
 * Source: [AIAir Quality System](https://github.com/Nguyenle23/AIAir-Quality-System)
+
+----------------
+
+AIMA - AI for Mathematical Application
+======
+* This was an undergraduate project of my friend.
+* My role was a Back-end developer to develop the API for the mobile application using Flask framework.
+* I also contributed to the integration of the Deep Learning model for the optical mathematical equation recognition (OMER) feature. 
+* Fine-tuning the model to enhance the recognition accuracy and efficiency by creating a dataset of mathematical equations.
+* I also developed and deployed the mobile application to the Google Play Store: [AIMA](https://play.google.com/store/apps/details?id=com.aiotlabvn.aima)
 
 ----------------
 
@@ -38,6 +60,7 @@ Stocking Microservices
 * Source: [Stocking Microservices](https://github.com/Nguyenle23/Stocking-Microservices)
 
 ----------------
+
 Petties
 ======
 * This was a project for the Google Developer Studen Club 2023 Hackathon.

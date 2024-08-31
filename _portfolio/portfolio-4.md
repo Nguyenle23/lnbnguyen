@@ -1,8 +1,8 @@
 ---
-title: "Certificate of Completion: IoT Fundamentals: Connecting Things"
-excerpt:  "<img src='/images/cer/iot.png' style='width: 35%; border: 2px solid #000;'>"
+title: "1st prize at the scientific conference “Digital transformation for young people - Solutions and applications 2023"
+excerpt:  "<img src='/images/cer/aima.jpg' style='width: 35%; border: 2px solid #000;'>"
 collection: portfolio
 ---
 
-![IoT](/images/cer/iot.png)
+![Google](/images/cer/aima.jpg)
 
